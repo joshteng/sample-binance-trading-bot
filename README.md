@@ -45,6 +45,6 @@ class Config {
 2. Use production API Credentials
 
 ### Disclaimer
-1. This is for educational purpose to demonstrate the use of Binance's official Node SDK
+1. This repository is intended for educational purpose, demonstrating the use of Binance's official Node SDK
 2. Manage your API keys safely! Never include it in your repository. Use and manage environment variables safely
 3. It's crucial to never have withdrawal permission enabled on your API credentials if not necessary
